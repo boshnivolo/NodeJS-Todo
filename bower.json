@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-todo",
+  "description": "",
+  "main": "public/assets/js/core.js",
+  "authors": [
+    "Jasmine Baik"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/boshnivolo/NodeJS-Todo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
